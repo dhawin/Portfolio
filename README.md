@@ -5,10 +5,10 @@
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - Master's Degree	| University of Southampton United Kingdom (_2019-2020_)
-  Knowledge and Information Systems Management [Merit] 			        		
+    Knowledge and Information Systems Management [Merit] 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 - Bachelor's Degree, Thammasart University (_2015-2019_)
-  SIIT - Computer Engineering [GPA 3.1]
+    SIIT - Computer Engineering [GPA 3.1]
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
